@@ -2,5 +2,6 @@ this is the potato. version one, before first commit.
 
 but what if it was a fry?
 
+Naya potato ayegaa... badal mitti me hai
 
 No!
